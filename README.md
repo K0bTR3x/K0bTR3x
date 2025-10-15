@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kobelius Tenebris Rexar</h1>
-<h3 align="center">“In the jungle of data, I’m the one who sees all.” Data Jungle Hacker | Cyberpunk Gorilla | BananaByte Specialist</h3>
+<h3 align="center">“In the jungle of data, I’m the one who sees all.” </br> Data Jungle Hacker | Cyberpunk Gorilla | BananaByte Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
